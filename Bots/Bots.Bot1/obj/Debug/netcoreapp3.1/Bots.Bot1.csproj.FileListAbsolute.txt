@@ -1,0 +1,16 @@
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\bin\Debug\netcoreapp3.1\Bots.Bot1.exe
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\bin\Debug\netcoreapp3.1\Bots.Bot1.deps.json
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\bin\Debug\netcoreapp3.1\Bots.Bot1.runtimeconfig.json
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\bin\Debug\netcoreapp3.1\Bots.Bot1.runtimeconfig.dev.json
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\bin\Debug\netcoreapp3.1\Bots.Bot1.dll
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\bin\Debug\netcoreapp3.1\Bots.Bot1.pdb
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\obj\Debug\netcoreapp3.1\Bots.Bot1.csprojAssemblyReference.cache
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\obj\Debug\netcoreapp3.1\Bots.Bot1.AssemblyInfoInputs.cache
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\obj\Debug\netcoreapp3.1\Bots.Bot1.AssemblyInfo.cs
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\obj\Debug\netcoreapp3.1\Bots.Bot1.csproj.CoreCompileInputs.cache
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\obj\Debug\netcoreapp3.1\Bots.Bot1.csproj.CopyComplete
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\obj\Debug\netcoreapp3.1\Bots.Bot1.dll
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\obj\Debug\netcoreapp3.1\Bots.Bot1.pdb
+C:\Users\Ostal\Desktop\bot1\Bots\Bots.Bot1\obj\Debug\netcoreapp3.1\Bots.Bot1.genruntimeconfig.cache
